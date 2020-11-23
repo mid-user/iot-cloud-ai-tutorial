@@ -1,4 +1,3 @@
-# Hello Developers!!!
 # Use IBM Watson IoT Platform
 
 In this tutorial, you will create an instance of the IBM Watson IoT Platform service, connect your device to it and monitor device data remotely.
